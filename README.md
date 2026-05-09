@@ -1,98 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:9333ea&height=180&section=header&text=Uzair%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:7c3aed,100:06b6d4&height=220&section=header&text=Uzair%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20RAG%20%26%20GenAI%20Builder&descAlignY=58&descSize=16" />
 
-# Hi, I'm Uzair Khan 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI-powered+web+applications;FastAPI+%2B+React+%2B+GenAI+Developer;RAG+Chatbots+%7C+LLM+Apps+%7C+Backend+APIs;Practical+AI+Systems%2C+Not+Just+Demos" />
 
-### AI Engineer | Full-Stack Developer | FastAPI | React | GenAI
+<br/>
 
-I build AI-powered web apps, backend APIs, RAG chatbots, and practical agentic AI systems.
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science student at FAST NUCES  
-- 🤖 Interested in AI Engineering, Generative AI, RAG, and Agentic AI  
-- 🧠 Working with FastAPI, React, LangChain, LangGraph, Docker, and AWS Bedrock  
-- 💼 Building projects that combine AI + backend + real-world workflows  
-- 🌱 Currently improving my JavaScript, React, Node.js, and full-stack skills  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql)
-
-### Frontend
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
-
-### Backend & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
-
----
-
-## 📌 Featured Projects
-
-### 🎙️ AI Mock Interview Platform
-An AI-powered interview preparation platform with voice-based interview practice, LLM integration, and feedback generation.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS, Firebase, Vapi AI, Gemini AI
-
----
-
-### 📊 Analytics API for Time-Series Event Data
-A backend analytics API for event tracking and time-series data processing.
-
-**Tech:** FastAPI, PostgreSQL, TimescaleDB, Docker, Python
-
----
-
-### 🤖 RAG Chatbot for ProcessHub
-A retrieval-based chatbot that answers from articles and attachments using knowledge base retrieval and LLM generation.
-
-**Tech:** AWS Bedrock, FastAPI, S3, Claude, RAG
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UzairKhan99&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UzairKhan99&theme=tokyonight&hide_border=true" height="160" />
+<a href="https://github.com/UzairKhan99">
+  <img src="https://img.shields.io/badge/GitHub-UzairKhan99-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/UzairKhan99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### “Building practical AI systems, not just demos.”
-
-</div>
+```txt
+AI Engineer in progress, focused on building real-world AI products,
+backend systems, RAG chatbots, and full-stack applications.
