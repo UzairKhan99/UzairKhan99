@@ -1,5 +1,33 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,25:1e1b4b,50:7c3aed,75:c026d3,100:06b6d4&amp;height=220&amp;section=header&amp;text=Uzair%20Khan&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20RAG%20and%20GenAI%20Builder&amp;descAlignY=58&amp;descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2500&amp;pause=700&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+AI-powered+web+applications;FastAPI+%2B+React+%2B+GenAI+Developer;RAG+Chatbots+%7C+LLM+Apps+%7C+Backend+APIs;Practical+AI+Systems%2C+Not+Just+Demos" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-2563EB?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Builder-C026D3?style=for-the-badge&amp;logo=awslambda&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
+
+<br/>
+<br/>
+
+<a href="https://github.com/UzairKhan99">
+  <img src="https://img.shields.io/badge/GitHub-UzairKhan99-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+</a>
+
+</div>
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,25:1e1b4b,50:7c3aed,75:c026d3,100:06b6d4&amp;height=220&amp;section=header&amp;text=Uzair%20Khan&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20RAG%20%26%20GenAI%20Builder&amp;descAlignY=58&amp;descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2500&amp;pause=700&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+AI-powered+web+applications;FastAPI+%2B+React+%2B+GenAI+Developer;RAG+Chatbots+%7C+LLM+Apps+%7C+Backend+APIs;Practical+AI+Systems%2C+Not+Just+Demos" />
